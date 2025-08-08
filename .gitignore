@@ -4,7 +4,10 @@ __pycache__/
 build/
 dist/
 wheels/
+multi-agent-workflow/repl_state
 *.egg-info
+.DS_Store
 
 # Virtual environments
 .venv
+.gitignore

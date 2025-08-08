@@ -14,5 +14,5 @@ agent = Agent(
         "Always explain your reasoning and cite sources when possible."
     )
 )
-
-agent("What should I consider when planning for retirement?")
+data = input("Ask me a question about retirement planning: ")
+agent(data)
