@@ -1,0 +1,4 @@
+bedrock-agentcore>=0.1.2
+bedrock-agentcore-starter-toolkit>=0.1.6
+strands-agents>=1.4.0
+strands-agents-tools>=0.2.3

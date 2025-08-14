@@ -11,3 +11,4 @@ multi-agent-workflow/repl_state
 # Virtual environments
 .venv
 .gitignore
+agentcore-demo/.bedrock_agentcore.yaml

@@ -1,0 +1,12 @@
+name: "FastAPI Agent"
+description: "A custom agent for handling user requests"
+
+model:
+  provider: "bedrock"
+  model_id: "anthropic.claude-3-haiku-20240307-v1:0"
+  region: "us-east-1"
+
+system_prompt: |
+  You are a helpful AI assistant. Respond to user queries in a clear and concise manner.
+
+tools: []

@@ -8,8 +8,10 @@ dependencies = [
     "bedrock-agentcore>=0.1.1",
     "bedrock-agentcore-starter-toolkit>=0.1.4",
     "boto3>=1.40.0",
+    "fastapi>=0.116.1",
     "mcp>=1.10.0",
     "strands-agents>=1.0.0",
     "strands-agents-tools>=0.2.0",
+    "typing>=3.10.0.0",
     "uv>=0.8.5",
 ]
